@@ -6,7 +6,7 @@ That line of code changes the color of the cat sprite. The period is used for se
 
 
 
-All I can figure out is that the modulate changes the color of the sprite. I'm guessing that modulate is basically a modifier, because it has mod in it.
+All I can figure out is that the modulate changes the color of the sprite. I'm guessing that modulate is basically a modifier and maybe doesn't just affect color, because it has mod in it.
 
 ## Open-Source Assets
 
